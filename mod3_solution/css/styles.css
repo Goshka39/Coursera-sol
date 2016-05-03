@@ -1,0 +1,17 @@
+#nav-collapse {
+	padding: 0;
+}
+
+#nav-collapse ul {
+	background-color: #ddd;
+	margin: 0;
+}
+
+#nav-collapse li:active,#nav-collapse li:hover {
+	background-color: #fff;
+}
+
+.row > section {
+	background-color: #bbb;
+	margin: 10px auto 10px;
+}
